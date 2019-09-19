@@ -1,3 +1,11 @@
+# TheCore
+
+This is the main TheCore home page and will have links to specific games that use TheCore.
+
+A good example: https://github.com/bobo38/TheCoreLite/blob/master/README.md
+
+The following is generic example text that can be removed:
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TheCoreHotkeys/thecorehotkeys.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
