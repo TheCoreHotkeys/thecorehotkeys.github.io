@@ -2,7 +2,7 @@
 
 This is the main TheCore home page and will have links to specific games that use TheCore.
 
-A good example: https://github.com/bobo38/TheCoreLite/blob/master/README.md
+A good example: [https://github.com/bobo38/TheCoreLite/blob/master/README.md]
 
 The following is generic example text that can be removed:
 
