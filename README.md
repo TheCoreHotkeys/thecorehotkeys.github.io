@@ -19,9 +19,9 @@ Specifically:
 
 - Weirdness Factor:
   - TheCore and TheCore Plus are located on the “weird” side of the keyboard.
-    - The fingers rest on JIOP for right handed (mouse) players and WERG for left handed (mouse) players.
+    - The fingers rest on `JIOP` for right handed (mouse) players and `WERG` for left handed (mouse) players.
   - TheCore lite is on the “normal” side of the keyboard.
-    - The fingers rest in either a FPS WASD setup or a ASTD touch typing setup.
+    - The fingers rest in either a FPS `WASD` setup or a `ASTD` touch typing setup.
 - Efficiency Factor:
   - Since TheCore and TheCore Plus use the thumb to press Ctrl, Shift, and Alt; and there is a much larger gap between the thumb and index than the pinky and ring; TheCore lite has less options for fast keys.
     - While the most common functions are just as fast on lite as TheCore and plus, this quickly changes with lite at a disadvantage for the remainder of the functions
