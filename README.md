@@ -4,7 +4,7 @@ This is the main TheCore home page and will have links to specific games that us
 
 An example of a good help page in Markdown: [https://github.com/bobo38/TheCoreLite/blob/master/README.md](https://github.com/bobo38/TheCoreLite/blob/master/README.md)
 
-## FAQ
+## FAQ (Starcraft 2)
 
 ### How long will this take?
 
