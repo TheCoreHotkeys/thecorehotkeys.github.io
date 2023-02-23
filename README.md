@@ -4,16 +4,57 @@ This is the main TheCore home page and will have links to specific games that us
 
 An example of a good help page in Markdown: [https://github.com/bobo38/TheCoreLite/blob/master/README.md](https://github.com/bobo38/TheCoreLite/blob/master/README.md)
 
-## FAQ (Starcraft 2)
+## StarCraft 2
+### What is TheCore?
 
-### How long will this take?
+_TheCore_ is a hotkey setup for StarCraft 2 that aims to improve and simplify the execution of mechanics by optimizing efficiency, ergonomics and fluidity. While there is no globally objective answer on what would be the single best hotkey setup, and there's tons of pro players that have gotten proficient with different ideas and priorities, the latest updated version of _TheCore Plus_ resembles the community's best efforts to optimize a hotkey layout. 
 
-It greatly depends on the quantity and quality of practice. If the player uses methods of Deliberate Practice, TheCore can be learned in a week. However if a player decides to learn TheCore by playing many games of Starcraft (200-300) with no particular focus in mind, a player can learn TheCore in a month. There is a [detailed learning program](https://docs.google.com/spreadsheets/d/1LhbxeYdkukOzYw030qNYQgLI1p3WUAbSTiuy1emeJSc/edit?usp=sharing) in the google drive folder for those looking for the fastest way we know to learn it.
+Carefully crafted, updated and maintained by a dedicated community since 2010, _TheCore_ doesn't leave much up to chance. It has lots of inert functionality to make common in-game tasks and mechanics faster and easier to execute, and also batches up some commonly utilized commands together in easily reachable locations; all while  taking cross-race play into consideration. 
+
+(These pros are already using _TheCore_: Plug plug plug)
+
+### Features
+- Ergonomic and efficient layout, with drastically reduced hand movement
+- Quick access to all camera hotkeys
+- Modern control group management
+- Easy cross-race play
+- Separate hotkey files for different keyboards (QWERTY, Dvorak, Colemak and different regions) 
+- Campaign and Co-op support (JuicyJuuce version. Any reason not to just use this one?) 
+- Support for other games
+
+## FAQ
+
+---
+
+### How long will it take me to learn this?
+
+It greatly depends on the quantity and quality of practice. If the player uses methods of Deliberate Practice, _TheCore_ can be learned in a week. However if a player decides to learn _TheCore_ by playing many games of Starcraft (200-300) with no particular focus in mind, a player can learn _TheCore_ in a month. There is a [detailed learning program](https://docs.google.com/spreadsheets/d/1LhbxeYdkukOzYw030qNYQgLI1p3WUAbSTiuy1emeJSc/edit?usp=sharing) in the google drive folder for those looking for the fastest way we know to learn it.
 
 ### What’s different about the Plus and Lite versions?
+// Proposition to clean up this explanation and make it more concise
 
-TheCore Plus is the most efficient followed by TheCore and finally TheCore lite.
-TheCore Plus is the most weird layout followed by TheCore and finally TheCore lite.
+In short, they can be seen as two modular additions to TheCore layout that provides different tradeoffs between mechanical efficiency, and familiarity/intuitivety. While all versions of TheCore provide a hotkey setup with carefully placed hotkeys and commands, we provide you with options to choose which side of the keyboard you want to play on (*Lite* or regular), and whether to optimize the placement of modifiers in terms of efficiency, frequency of use, and full access to modifier combinations (*Plus* or not). 
+
+
+#### Plus
+*Plus* is simply a slight augmentation to TheCore. It doesn't change anything in the hotkey layout, apart from changing up the position of the modifier keys - done either on the registry level of your computer, or from a custom keyboard driver dependant on whether you have access to that. This is done for two main reasons: 
+- To improve efficiency by prioritizing more commonly used in-game mechanics on more accessible keys
+- To accommodate for easily inputting all modifier combination with a single finger (preferrably thumb) 
+
+
+When _plus_ and _lite_ are used in conjunction, all modifier combinations can easily be pressed and reached with your thumb for right handed players. 
+
+> [!WARNING] Difference between button and action names
+> While learning Plus versions of _TheCore_ by reading through the documentation, be sure to keep your tongue in your mouth, and differentiate between the action you want to input (i.e. queue up commands or select all of a certain unit), and the key you are used to relating to the function. For example, while using _TheCore+_, shift-queuing actions is performed with the Menu-button on TheCore+. Currently this translating process might heighten the learning curve. 
+> // A way to update the TheCore visualizer would drastically reduce the learning curve for Plus versions especially
+
+// Add some of the helpful examples from below to illustrate
+
+#### Lite
+// ... some of the info from below
+
+---
+TheCore Plus is the most efficient and most unconventional layout, followed by TheCore and finally TheCore lite; the version in closest resemblance to how you are used to using your keyboard. 
 
 Specifically:
 
@@ -48,7 +89,10 @@ Specifically:
 
 Alt is set to "center on current selection" intentionally. The reason for this is that 7 cameras are dedicated base location cameras that will snap to your base whenever you want to shift+click back to minerals, do a transfer, or defend against a drop.  Our philosophy here is that by centering these cameras on a fixed point, it is easier to get the cursor in the desired location since the player already knows exactly where the mineral field (or other object) will be before moving the camera.
 
-To create the camera where there is no building, simply hold down alt, and move the camera to the desired location after it has centered on selection (mini map is usually best for this). Alternatively, you can rebind Center on Selection.
+To create the camera where there is no building, simply hold down alt, and move the camera to the desired location after it has centered on selection (mini map is usually best for this). Alternatively, you can rebind Center on Selection. 
+
+> [!WARNING] Important setting
+> Make sure to go to "Options" -> "Gameplay" and uncheck "Smart camera pan". This will make sure that "Center on Selection" behaves properly by snapping immediately to the center, regardless of relative position of the selection (no sloppy camera panning). 
 
 ### How do I do larva injects with TheCore?
 
